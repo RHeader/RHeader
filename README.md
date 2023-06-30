@@ -1,23 +1,13 @@
-<style>
-.centered-box{
-display:flex;
-align-items:center;
-justify-content:center;
-gap: 5px;
-flex-wrap:wrap;
-}
-</style>
-
 <h1 style="text-align:center">About Me </h1>
 I am deeply in love with the .NET platform and enjoy leveraging its power to build robust applications. As a developer, I constantly explore and utilize various tools and frameworks to enhance my productivity and create efficient solutions.
 
-<div class="centered-box">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rheader&layout=compact"/>
 
+<div align="center" style="margin-top:15px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rheader&layout=compact"/>
 </div>
 
 <h2 style="text-align:center">Backend Stack (.NET)</h2>
-<div class="centered-box">
+<div align="center">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
@@ -28,14 +18,14 @@ I am deeply in love with the .NET platform and enjoy leveraging its power to bui
 
 
 <h2 style="text-align:center">Frontend Stack</h2>
-<div class="centered-box">
+<div align="center">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 </div>
 <h2 style="text-align:center">Deployment and Monitoring Stack</h2>
-<div class="centered-box">
+<div align="center">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -44,7 +34,7 @@ I am deeply in love with the .NET platform and enjoy leveraging its power to bui
 <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"/>
 </div>
 <h2 style="text-align:center">IDE</h2>
-<div class="centered-box">
+<div align="center">
 <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" />
 <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" />
 </div>
